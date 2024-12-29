@@ -79,7 +79,7 @@ An in-depth analysis of house rental patterns using R, focusing on data preproce
 8.9 Analysis: Contact type differences in choosing the floor number	
 8.10 Analysis: which furnishing type do families and bachelors prefer based on floor number	
 8.11 Analysis (conclusion)	
-9.0 Features	
+9.0 Features	 
 9.1 Outlier Analysis	
 9.1.3 Outlier Implementation:	
 9.2 Scatterplot	
