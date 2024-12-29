@@ -10,17 +10,11 @@ An in-depth analysis of house rental patterns using R, focusing on data preproce
 **Full Report:**
 [Report.pdf](https://github.com/user-attachments/files/18268760/Report.pdf)
 
-**snippets:**
+**Snippets:**
+
 <img width="500" alt="Screenshot 2024-12-29 at 9 58 19 AM" src="https://github.com/user-attachments/assets/52dd189d-72a1-4195-864e-77d6e0d953c8" />
-<img width="500" alt="Screenshot 2024-12-29 at 9 58 49 AM" src="https://github.com/user-attachments/assets/e6db41c4-9bf6-4478-9e1f-e4482bc5d61d" />
-<img width="500" alt="Screenshot 2024-12-29 at 9 59 04 AM" src="https://github.com/user-attachments/assets/cff9d776-5bbc-4ce1-9cf0-f30b286cc194" />
-<img width="500" alt="Screenshot 2024-12-29 at 9 59 40 AM" src="https://github.com/user-attachments/assets/4dc3a921-6ed4-4b94-b565-186a946f0fbc" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 00 53 AM" src="https://github.com/user-attachments/assets/e2d8943e-5928-4870-b082-dc3720512c02" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 01 12 AM" src="https://github.com/user-attachments/assets/33f649f7-8eaa-47e7-be81-50121aa60129" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 01 37 AM" src="https://github.com/user-attachments/assets/c3723473-3403-4b03-afad-beabbfe6e0ed" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 01 54 AM" src="https://github.com/user-attachments/assets/1de64a91-7ad4-4906-9071-3f994aebfa52" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 02 42 AM" src="https://github.com/user-attachments/assets/c2fb6627-6300-4dd2-8b4e-64cf84edf77b" />
-<img width="500" alt="Screenshot 2024-12-29 at 10 03 03 AM" src="https://github.com/user-attachments/assets/b3ad7cb9-1cd5-4525-95be-2de21aee4595" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 11 21 AM" src="https://github.com/user-attachments/assets/86a2d51d-adf1-4802-ace8-2f05633d17a5" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 11 47 AM" src="https://github.com/user-attachments/assets/3973234a-2331-41b1-b61d-2ecda52e3135" />
 <img width="500" alt="Screenshot 2024-12-29 at 10 03 47 AM" src="https://github.com/user-attachments/assets/cd0f026e-fb5d-4531-8333-413ed375bc79" />
 <img width="500" alt="Screenshot 2024-12-29 at 10 03 59 AM" src="https://github.com/user-attachments/assets/afc0a66a-1733-43ed-98d5-8665e37cb80c" />
 <img width="500" alt="Screenshot 2024-12-29 at 10 04 14 AM" src="https://github.com/user-attachments/assets/015c24d1-ed4e-4326-b42e-f224d42ffa56" />
