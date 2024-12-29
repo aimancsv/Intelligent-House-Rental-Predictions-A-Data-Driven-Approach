@@ -1,0 +1,2 @@
+# Intelligent-House-Rental-Predictions-A-Data-Driven-Approach
+An in-depth analysis of house rental patterns using R, focusing on data preprocessing, exploratory data analysis, and visualization. The dataset includes 4,747 rows of rental data, this project examines trends such as rental prices, tenant preferences, and housing attributes. The project also highlights potential extensions into predictive modeling
