@@ -85,5 +85,3 @@ An in-depth analysis of house rental patterns using R, focusing on data preproce
 9.2 Scatterplot	
 9.3 Boxplot	
 9.4 Bubble Plot	
-
-![image](https://github.com/user-attachments/assets/f4a26227-0e43-49b1-bfee-530f9beed5d2)
