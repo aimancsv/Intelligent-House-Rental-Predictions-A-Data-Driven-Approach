@@ -7,81 +7,22 @@ An in-depth analysis of house rental patterns using R, focusing on data preproce
 - Visualization: Interactive and static plots using ggplot2, plotly, and other libraries.
 - AI Potential: Provides a foundation for applying machine learning algorithms, such as clustering or regression models, to predict prices or identify customer preferences.
 
-**Contents:**
+**Full Report:**
+[Report.pdf](https://github.com/user-attachments/files/18268760/Report.pdf)
 
-1.0 Introduction	
-2.0 Data Import	
-2.1 Load Library	
-2.2 Load Data	
-3.0 Pre-processing, Cleaning, and Transformation	
-3.1 Assigning new columns header names:	
-3.2 Split columns	
-3.3 Convert Data type	
-3.3.1 Convert character to numeric data type	
-3.4 Dealing with Missing Values	
-3.5 Outlier Analysis	
-3.6 Data Correlation	
-4.0 Question 1 Renting houses on monthly basis	
-4.1 Analysis: Number of Bachelors/Families rented monthly	
-4.2 Analysis: Number of all families rented monthly.	
-4.3 Analysis: Number of all bachelors rented monthly.	
-4.4 Analysis: Average price monthly	
-4.5 Analysis: Average rent by furnishing types	
-4.6 Analysis: Number of houses rented monthly by furnishing types	
-4.7 Analysis: When renters usually rent from agemts	
-4.8 Analysis: Which month has the most BHK in the carpet area	
-4.9 Analysis: Which month has the cheapest price and four BHKs in the Super Area	
-4.10 Analysis When do cities have the cheapest price for Carpet areas and have three bathrooms?	
-4.11 Analysis (conclusion)	
-5.0. Question 2:  Distribution of what Bachelors/Families prefer:	
-5.1 Analysis:  What Area Class do Bachelors and families prefer?	
-5.2 Analysis:  What City do Bachelors/Families prefer?	
-5.3 Analysis:  What Contact Types do Bachelors/Families prefer?	
-5.4 Analysis: What Furnishing Status do renters prefer if it was Super Area?	
-5.5 Analysis: What City tenants prefer if they want a Carpet area?	
-5.6 Analysis: What type of Point of Contact do renters prefer if the house is furnished	
-5.7 Analysis: What city do renters prefer if the house has 3 BHK and fully furnished	
-5.8 Analysis: What type of renters prefer contacting to owners if the is unfurnished	
-5.9 Analysis: What cities have houses for bachelors with a Super area and 2 BHKs and 1 bathroom	
-5.10 Analysis: Scenario for finding a house	
-5.11 Analysis (conclusion)	
-6.0. Question 3:  Distribution of how much will the tenant pay according to the size?	
-6.1 Analysis:  Price described by size and multi factors.	
-6.2 Analysis:  The number of houses by size	
-6.3 Analysis:  The average size by BHK	
-6.4 Analysis:  The average rent by BHK	
-6.5 Analysis:  The number of houses by BHK	
-6.6 Analysis The average size by Area Type	
-6.7 Analysis The average price by Area Type	
-6.8 Analysis The average price of every city.	
-6.9 Analysis: Average Price of every city by area and Furnished type.	
-6.10 Analysis (conclusion)	
-7.0 Question 4:  Distribution of which city do tenants prefer to live in and why	
-7.1 Analysis: Number of houses by the city	
-7.2 Analysis: The most rented location in every city	
-7.3 Analysis: The average Rent by city	
-7.4 Analysis: The Average Rent by the city ina most rented locations	
-7.5 Analysis: The contact type preferred by the city	
-7.6 Analysis:  The contact type preferred by the city in most rented locations	
-7.7 Analysis:  The Area Type  preferred by tenants in most rented locations	
-7.8 Analysis: When renters usually rent in the most rented location bases on the furnishing type.	
-7.9 Analysis: What is the average of BHKs in most rented locations?	
-7.10 Analysis (conclusion)	
-8.0 Question:  Distribution of how the number of floors will affect tenants from renting houses.	
-8.1 Analysis: Number of houses by the total number of floors	
-8.2 Analysis: What floors do renters prefer in houses	
-8.3 Analysis: What is the Average price for bachelors and families of houses by the total number of floors	
-8.4 Analysis:  Is there a relationship between the size of the house and which floor is the house on	
-8.5 Analysis:  Which city has the highest number of houses?	
-8.6 Analysis:  From the most rented location, which location has the most total floors by city	
-8.7 Analysis: Do Bachelors differ from families in choosing the floor number	
-8.8 Analysis: Area class differences in choosing the floor number	
-8.9 Analysis: Contact type differences in choosing the floor number	
-8.10 Analysis: which furnishing type do families and bachelors prefer based on floor number	
-8.11 Analysis (conclusion)	
-9.0 Features	 
-9.1 Outlier Analysis	
-9.1.3 Outlier Implementation:	
-9.2 Scatterplot	
-9.3 Boxplot	
-9.4 Bubble Plot	
+**snippets:**
+<img width="500" alt="Screenshot 2024-12-29 at 9 58 19 AM" src="https://github.com/user-attachments/assets/52dd189d-72a1-4195-864e-77d6e0d953c8" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 58 49 AM" src="https://github.com/user-attachments/assets/e6db41c4-9bf6-4478-9e1f-e4482bc5d61d" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 59 04 AM" src="https://github.com/user-attachments/assets/cff9d776-5bbc-4ce1-9cf0-f30b286cc194" />
+<img width="500" alt="Screenshot 2024-12-29 at 9 59 40 AM" src="https://github.com/user-attachments/assets/4dc3a921-6ed4-4b94-b565-186a946f0fbc" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 00 53 AM" src="https://github.com/user-attachments/assets/e2d8943e-5928-4870-b082-dc3720512c02" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 01 12 AM" src="https://github.com/user-attachments/assets/33f649f7-8eaa-47e7-be81-50121aa60129" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 01 37 AM" src="https://github.com/user-attachments/assets/c3723473-3403-4b03-afad-beabbfe6e0ed" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 01 54 AM" src="https://github.com/user-attachments/assets/1de64a91-7ad4-4906-9071-3f994aebfa52" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 02 42 AM" src="https://github.com/user-attachments/assets/c2fb6627-6300-4dd2-8b4e-64cf84edf77b" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 03 03 AM" src="https://github.com/user-attachments/assets/b3ad7cb9-1cd5-4525-95be-2de21aee4595" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 03 47 AM" src="https://github.com/user-attachments/assets/cd0f026e-fb5d-4531-8333-413ed375bc79" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 03 59 AM" src="https://github.com/user-attachments/assets/afc0a66a-1733-43ed-98d5-8665e37cb80c" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 04 14 AM" src="https://github.com/user-attachments/assets/015c24d1-ed4e-4326-b42e-f224d42ffa56" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 04 25 AM" src="https://github.com/user-attachments/assets/8a1cf1d0-ca71-4013-bbbc-c397d2965a19" />
+<img width="500" alt="Screenshot 2024-12-29 at 10 04 52 AM" src="https://github.com/user-attachments/assets/733d392e-1edc-4a2f-a707-5cdcbfd2be6e" />
